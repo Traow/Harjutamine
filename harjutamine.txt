@@ -1,0 +1,4 @@
+GitHub on mittetulundusühing, mis pakub pilvepõhist Giti hoidla hostimisteenust .
+Präegult kasutan githubbi nii koolis kui ka väljastpool kooli. Ning siin ma hoian enda koolitöid präegult ja teise konto peal hoian mängu plugin scripte.
+Ilmselt hakkan kasutama githubbi edasiselt, et hoida enda file ja teisi asju git hubis.
+Git hub avaldati 10. aprillil aastal 2008. Ning isik kes selle avladas on Linus Torvalds.
